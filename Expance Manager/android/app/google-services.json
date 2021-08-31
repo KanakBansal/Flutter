@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986794088087",
+    "project_id": "my-expense-manager-c1520",
+    "storage_bucket": "my-expense-manager-c1520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986794088087:android:9dd4cc732cd00f08307bd2",
+        "android_client_info": {
+          "package_name": "com.skillrisers.my_expense_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986794088087-oia8cmseh2oavkoi70g39nkse68grlhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseNpmhnVMl6MYCpZwL8g9LeGQomC37Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986794088087-oia8cmseh2oavkoi70g39nkse68grlhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
